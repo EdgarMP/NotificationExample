@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "1061537407514",
+    "firebase_url": "https://gdgmonterrey.firebaseio.com",
+    "project_id": "gdgmonterrey",
+    "storage_bucket": "gdgmonterrey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061537407514:android:2756c886adeac8f9",
+        "android_client_info": {
+          "package_name": "com.edgarmarcopolo.notificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061537407514-8t11f3i1ek3ja2nr2j021s1c5shf3thf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWsbfYVSFc-vuyvFDpGZOKy2vhnMXMk2c"
+        },
+        {
+          "current_key": "AIzaSyD9Kn4EPupdJqDhLgenLSPoBRXy2i1GaVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061537407514-8t11f3i1ek3ja2nr2j021s1c5shf3thf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
